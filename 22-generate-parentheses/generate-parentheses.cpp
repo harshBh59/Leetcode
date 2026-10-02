@@ -25,6 +25,6 @@ public:
         fun(0,0,n,s,res);
         return res;
         
-         
-    }
+         }
+
 };
