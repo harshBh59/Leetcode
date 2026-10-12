@@ -20,7 +20,7 @@ public:
         
     }
     vector<int> inorderTraversal(TreeNode* root) {
-        ans.clear();
+        
          fun(root);
          return ans;
     }
